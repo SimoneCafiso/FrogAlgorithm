@@ -20,6 +20,21 @@ this algorithm basically print out the most convinient "trip", in fact every sto
 g++ -o frog frog.cpp
 ```
 
+### Sample Input
+```
+4
+
+10
+30
+40
+20
+```
+----
+## Output
+```
+40
+```
+
 ## Version History
 * 0.1
     * Initial Release
