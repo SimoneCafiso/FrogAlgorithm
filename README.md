@@ -17,7 +17,7 @@ this algorithm basically print out the most convinient "trip", in fact every sto
 
 * How to run the program
 ```
-gcc -o frog frog.cpp
+g++ -o frog frog.cpp
 ```
 
 ## Version History
